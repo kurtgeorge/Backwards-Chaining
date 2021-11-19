@@ -8,7 +8,7 @@ Stuff to note
 - This program is case sensitive when it comes to searchs
 - Handles ^ to represent AND, v to represent OR
 
-Sentence format as follows:
-b=>c
-b^c=>a
+Sentence format as follows:\
+b=>c\
+b^c=>a\
 a
